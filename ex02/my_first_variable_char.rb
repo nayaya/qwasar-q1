@@ -1,2 +1,2 @@
-my_char = 'C'
+my_char = 'c'
 puts(my_char)
